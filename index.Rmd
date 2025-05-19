@@ -33,7 +33,7 @@ keywords:
 link-citations: true
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  这是一个简单的中文书籍模版，顺便介绍了如何使用中英文字体，参考文献样式等。
+  这是一个Rmd中文书籍模版，顺便介绍了如何使用中英文字体，参考文献样式等。
 editor_options: 
   chunk_output_type: console
 ---
