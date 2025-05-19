@@ -11,14 +11,14 @@ knitr::opts_chunk$set(
 ## 中日韩等宽
 sysfonts::font_add(
   family = "Noto Sans Mono CJK SC",
-  regular = "/usr/share/fonts/truetype/noto/NotoSansMonoCJK-VF.otf.ttc",
-  bold = "/usr/share/fonts/truetype/noto/NotoSansMonoCJK-VF.otf.ttc"
+  regular = "Fonts/NotoSansMonoCJK-VF.otf.ttc",
+  bold = "Fonts/NotoSansMonoCJK-VF.otf.ttc"
 )
 ## 中日韩
 sysfonts::font_add(
   family = "Noto Sans CJK SC",
-  regular = "/usr/share/fonts/truetype/noto/NotoSansCJK-VF.otf.ttc",
-  bold = "/usr/share/fonts/truetype/noto/NotoSansCJK-VF.otf.ttc"
+  regular = "Fonts/NotoSansCJK-VF.otf.ttc",
+  bold = "Fonts/NotoSansCJK-VF.otf.ttc"
 )
 ## 英文衬线字体
 sysfonts::font_add(

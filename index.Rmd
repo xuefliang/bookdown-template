@@ -77,14 +77,14 @@ font_add(
 # 添加Noto Sans CJK SC字体
 font_add(
   family = "Noto Sans CJK SC", 
-  regular = "/usr/share/fonts/opentype/noto/NotoSansCJK-VF.otf.ttc",
-  bold = "/usr/share/fonts/opentype/noto/NotoSansMonoCJK-VF.otf.ttc"
+  regular = "Fonts/NotoSansCJK-VF.otf.ttc",
+  bold = "Fonts/NotoSansMonoCJK-VF.otf.ttc"
 )
 # 添加Noto Sans Mono CJK SC字体
 font_add(
   family = "Noto Sans Mono CJK SC", 
-  regular = "/usr/share/fonts/opentype/noto/NotoSansMonoCJK-VF.otf.ttc",
-  bold = "/usr/share/fonts/opentype/noto/NotoSansMonoCJK-VF.otf.ttc"
+  regular = "Fonts/NotoSansMonoCJK-VF.otf.ttc",
+  bold = "Fonts/NotoSansMonoCJK-VF.otf.ttc"
 )
 showtext_auto()
 ```
